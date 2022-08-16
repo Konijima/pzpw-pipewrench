@@ -1,7 +1,6 @@
 
 # PipeWrench (For PZPW)
-[![Test](https://github.com/Konijima/pzpw-pipewrench/actions/workflows/test.yml/badge.svg)](https://github.com/Konijima/pzpw-pipewrench/actions/workflows/test.yml)
-
+[![Build](https://github.com/Konijima/pzpw-pipewrench/actions/workflows/Build.yml/badge.svg)](https://github.com/Konijima/pzpw-pipewrench/actions/workflows/Build.yml)
 PipeWrench is a set of TypeScript definitions for both the Java API and Lua codebase for the game Project Zomboid.
 
 ## Advantages
