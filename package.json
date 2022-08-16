@@ -1,0 +1,35 @@
+{
+  "name": "pipewrench",
+  "version": "1.0.0",
+  "description": "",
+  "types": "PipeWrench.d.ts",
+  "scripts": {
+    "patch": "node patch.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asledgehammer/PipeWrench.git"
+  },
+  "keywords": [
+    "pipewrench",
+    "projectzomboid",
+    "project",
+    "zomboid",
+    "pz",
+    "typescript",
+    "typescripttolua",
+    "tstl",
+    "lua"
+  ],
+  "author": "asledgehammer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asledgehammer/PipeWrench/issues"
+  },
+  "homepage": "https://github.com/asledgehammer/PipeWrench#readme",
+  "devDependencies": {
+    "lua-types": "^2.12.0",
+    "typescript": "^4.7.4"
+  }
+}
